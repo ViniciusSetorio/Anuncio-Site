@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+  }
+  
+  h1 {
+    color: #6666CC;
+  }
+  
+  h2 {
+    color: #9999FF;
+  }
+  
+  p {
+    color: #808080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+    font-style: bold;
+  }
+  
+  h3 {
+    color: #6666CC;
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
